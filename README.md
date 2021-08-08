@@ -36,3 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Name: Dale Ethan A. Yacapin
 Contact #: 09161206850
+Email: ethanyacapin44@gmail.com
